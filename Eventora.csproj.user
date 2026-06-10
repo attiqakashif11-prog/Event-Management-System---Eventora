@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\BookingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConnectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EventDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EventForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\NewBookingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pages\AttendeesPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Pages\BasePage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Pages\BookingsPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Pages\DashboardPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Pages\EventsPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Pages\OrganizersPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Pages\OtherPages.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Pages\UsersPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Pages\VenuesPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
